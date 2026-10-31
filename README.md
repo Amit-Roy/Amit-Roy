@@ -1,4 +1,4 @@
-![AI, put to work. Amit Roy — AI tools and automation.](assets/profile-banner.svg)
+![AI, put to work. Amit Roy — AI tools and automation.](assets/ai-tools-banner.svg)
 
 # Give the agents a workspace.
 
